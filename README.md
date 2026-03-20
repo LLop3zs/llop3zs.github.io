@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu GitHub!
 
 ---
 
-## 🚀 As Minhas Habilidades
+## 🚀 Linguagens ou Frameworks trabalhados
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,github,figma,mysql,notion" />
