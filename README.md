@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu GitHub!
 
 
 * 👨‍💻 Atualmente estou aprendendo **Java,JavaScript,HTML,CSS**
-* 👯 Procuro trabalhar na área de programação mas sem uma preferência de liguagem de programação
+* 💼 Procuro trabalhar na área de programação mas sem uma preferência de liguagem de programação
 * 📫 Como contactar-me: **miguellopegomes@gmail.com**
 
 ---
