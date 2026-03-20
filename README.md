@@ -25,7 +25,7 @@ Bem-vindo(a) ao meu GitHub!
 ## 🔗 Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/Miguel_Lopes_Gomes/" target="_blank">
+  <a href="https:/https://www.linkedin.com/in/miguel-lopes-gomes-1a1ba7368/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:miguellopegomes@gmail.com" target="_blank">
