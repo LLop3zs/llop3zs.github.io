@@ -1,5 +1,5 @@
 # llop3zs.github.io
-# Olá, eu sou o [Miguel Lopes Gomes]! 👋
+# Olá, eu sou o Miguel Lopes Gomes! 👋
 
 
 Bem-vindo(a) ao meu GitHub! 
@@ -8,9 +8,9 @@ Bem-vindo(a) ao meu GitHub!
 ## 👨🏻‍🎓 Sobre mim
 
 
-* 👨‍💻 Atualmente a aprender **[Java,JavaScript,HTML,CSS]**
+* 👨‍💻 Atualmente a aprender **Java,JavaScript,HTML,CSS**
 * 👯 Procuro trabalhar na área de programação mas sem uma preferência de liguagem de programação
-* 📫 Como contactar-me: **[O seu endereço de e-mail]**
+* 📫 Como contactar-me: **miguellopegomes@gmail.com**
 
 ---
 
